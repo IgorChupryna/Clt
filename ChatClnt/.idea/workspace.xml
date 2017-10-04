@@ -7,278 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfaee42f-c656-4247-964a-b144a7e8dbf7" name="Default" comment="First commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/out/production/BiteSwitch/BitSwitch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.annotation.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.ejb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.jms.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.persistence.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.resource.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.servlet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.servlet.jsp.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.servlet.jsp.jstl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/lib/javax.transaction.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/out/artifacts/Chat1_war_exploded/WEB-INF/classes/chup/com/ua/ChatServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/out/artifacts/Chat1_war_exploded/WEB-INF/classes/chup/com/ua/Messages.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/out/production/Chat1/chup/com/ua/ChatServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/out/production/Chat1/chup/com/ua/Messages.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/out/production/ChatClient/chup/ua/GetThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/out/production/ChatClient/chup/ua/JsonMessages.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/out/production/ChatClient/chup/ua/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/out/production/ChatClient/chup/ua/Message.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/out/production/ChatClient/chup/ua/Utils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.annotation.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.ejb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.jms.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.persistence.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.resource.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.servlet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.servlet.jsp.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.servlet.jsp.jstl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/lib/javax.transaction.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/AddServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/GetListServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/JsonMessages.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/Message.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/MessageList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/Status.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/classes/ua/chup/UserList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/lib/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/AddServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/GetListServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/JsonMessages.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/Message.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/MessageList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/Status.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/production/ChatServer/ua/chup/UserList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/out/production/TechProject/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.annotation.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.ejb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.jms.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.persistence.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.resource.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.servlet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.servlet.jsp.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.servlet.jsp.jstl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/lib/javax.transaction.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/WEB-INF/classes/ua/kiev/prog/CounterServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/WEB-INF/classes/ua/kiev/prog/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/WEB-INF/classes/ua/kiev/prog/OpenedServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/WEB-INF/classes/ua/kiev/prog/SampleParamServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/WEB-INF/classes/ua/kiev/prog/SampleServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/production/Web1/ua/kiev/prog/CounterServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/production/Web1/ua/kiev/prog/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/production/Web1/ua/kiev/prog/OpenedServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/production/Web1/ua/kiev/prog/SampleParamServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/production/Web1/ua/kiev/prog/SampleServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/lib/kotlin-reflect.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/lib/kotlin-runtime-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/lib/kotlin-runtime.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/out/artifacts/hp_conn_jar/hp.conn.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/out/production/hp.conn/ua/hp/chup/conn/HpApiSession.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prometeus/out/production/prometeus/Fibonacci.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prometeus/out/production/prometeus/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.annotation.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.ejb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.jms.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.persistence.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.resource.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.servlet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.servlet.jsp.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.servlet.jsp.jstl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/lib/javax.transaction.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/artifacts/quiz_war_exploded/WEB-INF/classes/com/chup/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/artifacts/quiz_war_exploded/WEB-INF/classes/com/chup/QuizServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/artifacts/quiz_war_exploded/WEB-INF/classes/com/chup/StatServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/production/quiz/com/chup/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/production/quiz/com/chup/QuizServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/production/quiz/com/chup/StatServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/lib/kotlin-reflect.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/lib/kotlin-runtime-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/lib/kotlin-runtime.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/artifacts/ua_chup_hp_ca_loop_jar/ua.chup.hp.ca_loop.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/AutoCreInc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/ExeCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/FileToString.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/GetDate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/Loger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/MakeIncedent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/PrepareInf.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/SendMail.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/hp/ca_loop/TechFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/out/production/untitled2/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/BiteSwitch.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BiteSwitch/src/BitSwitch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/.idea/artifacts/Chat1_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/Chat1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/out/artifacts/Chat1_war_exploded/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/out/artifacts/Chat1_war_exploded/chat.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/out/artifacts/Chat1_war_exploded/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/src/chup/com/ua/ChatServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/src/chup/com/ua/Messages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/web/chat.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Chat1/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/.idea/artifacts/ChatClient_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/.idea/libraries/gson_2_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/ChatClient.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/src/chup/ua/GetThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/src/chup/ua/JsonMessages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/src/chup/ua/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/src/chup/ua/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/src/chup/ua/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatClient/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/.idea/artifacts/ChatServer_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/.idea/libraries/gson_2_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/ChatServer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/out/artifacts/ChatServer_war_exploded/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/src/ua/chup/AddServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/src/ua/chup/GetListServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/src/ua/chup/JsonMessages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/src/ua/chup/LoginServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/src/ua/chup/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/src/ua/chup/MessageList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/src/ua/chup/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/src/ua/chup/UserList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatServer/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/TechProject.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TechProject/src/ua/chup/edu/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/.idea/artifacts/Web1_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/Web1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/count.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/date.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/out/artifacts/Web1_war_exploded/test.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/src/ua/kiev/prog/CounterServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/src/ua/kiev/prog/LoginServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/src/ua/kiev/prog/OpenedServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/src/ua/kiev/prog/QuestionServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/src/ua/kiev/prog/SampleParamServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/src/ua/kiev/prog/SampleServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/LoginServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/count.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/date.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/quest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Web1/web/test.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/artifacts/hp_conn_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/libraries/KotlinJavaRuntime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/hp.conn.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/out/production/hp.conn/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hp.conn/src/ua/hp/chup/conn/HpApiSession.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prometeus/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prometeus/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prometeus/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prometeus/prometeus.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prometeus/src/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prometeus/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/.idea/artifacts/quiz_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/artifacts/quiz_war_exploded/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/artifacts/quiz_war_exploded/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/out/artifacts/quiz_war_exploded/quiz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/quiz.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/src/com/chup/LoginServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/src/com/chup/QuizServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/src/com/chup/StatServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/web/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../quiz/web/quiz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/artifacts/ua_chup_hp_ca_loop_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/libraries/KotlinJavaRuntime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/out/production/ua.chup.hp.ca_loop/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/AutoCreInc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/ExeCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/FileToString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/GetDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/Loger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/MakeIncedent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/PrepareInf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/SendMail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/src/hp/ca_loop/TechFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ua.chup.hp.ca_loop/ua.chup.hp.ca_loop.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled1/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled1/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled1/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/ChatClnt_jar2.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatServer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ChatServer/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="../BiteSwitch/" />
@@ -346,8 +77,8 @@
       <file leaf-file-name="GetThread.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/chup/GetThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+            <state relative-caret-position="362">
+              <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -607,6 +338,7 @@
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Chupryna-IV\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -617,7 +349,7 @@
       <updated>1506421888334</updated>
       <workItem from="1506421892380" duration="51839000" />
       <workItem from="1506857839817" duration="33388000" />
-      <workItem from="1507040613256" duration="5236000" />
+      <workItem from="1507040613256" duration="7501000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1507109108528</created>
@@ -630,7 +362,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90463000" />
+    <option name="totallyTimeSpent" value="92728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1696" height="1066" extended-state="6" />
@@ -643,11 +375,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18181819" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24761905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24761905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -824,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/chup/GetThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+        <state relative-caret-position="362">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
           <folding />
         </state>
       </provider>
