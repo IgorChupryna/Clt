@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Football quiz</title>
+</head>
+<body>
+<form action="/quiz" method="POST">
+    <fieldset>
+        <legend>Personal information:</legend>
+        <p><strong>FirstName</strong>
+            <br/><input type="text" name="first name"/>
+        </p>
+        <p><strong>SecondName</strong>
+            <br/><input type="text" name="second name"/>
+        </p>
+        <p><strong>Age</strong>
+            <br/><input type="text" name="age"/>
+        </p>
+    </fieldset>
+
+    <br/><strong>Who is the best football player!!!</strong>
+    <br/>Default is "No"
+    <br/>
+    <br/>
+    <br/>1. Do you like Messi?
+    <br/><input type="radio" name="q1" value="yes"/> Yes
+    <br/> <input type="radio" name="q1" value="no"/> No
+    <br/>
+    <br/>
+    <br/>2. Do you like Ronaldo?
+    <br/><input type="radio" name="q2" value="yes"/> Yes
+    <br/> <input type="radio" name="q2" value="no"/> No
+    <br/>
+    <br/>
+    <br/>3. Do you like Neymar?
+    <br/><input type="radio" name="q3" value="yes"/> Yes
+    <br/> <input type="radio" name="q3" value="no"/> No
+    <br/>
+    <br/><input type="submit" name="send" value="send"/>
+</form>
+</body>
+</html>

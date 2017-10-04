@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect.jar!/" />
+      <root url="jar://D:/ua.chup.hp.ca_loop/dist/lib/activation-1.1.jar!/" />
+      <root url="jar://D:/ua.chup.hp.ca_loop/dist/lib/mail.jar!/" />
+      <root url="jar://D:/ua.chup.hp.ca_loop/dist/lib/ojdbc6.jar!/" />
+      <root url="jar://D:/ua.chup.hp.ca_loop/dist/lib/web-api.jar!/" />
+      <root url="file://D:/ua.chup.CA.callendars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-runtime-sources.jar!/" />
+      <root url="file://D:/ua.chup.CA.callendars/src" />
+    </SOURCES>
+  </library>
+</component>

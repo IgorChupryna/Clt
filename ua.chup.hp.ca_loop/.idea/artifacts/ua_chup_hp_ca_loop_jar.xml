@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ua.chup.hp.ca_loop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ua_chup_hp_ca_loop_jar</output-path>
+    <root id="archive" name="ua.chup.hp.ca_loop.jar">
+      <element id="module-output" name="ua.chup.hp.ca_loop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/kotlin-runtime.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/ua.chup.hp.ca_loop/dist/lib/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/ua.chup.hp.ca_loop/dist/lib/mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/ua.chup.hp.ca_loop/dist/lib/ojdbc6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/ua.chup.hp.ca_loop/dist/lib/web-api.jar" path-in-jar="/" />
+      <element id="dir-copy" path="D:/ua.chup.CA.callendars" />
+    </root>
+  </artifact>
+</component>
